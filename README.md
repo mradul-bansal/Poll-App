@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Poll App is a web application designed for creating, participating in, and viewing the results of polls. The application features a simple and intuitive interface for both administrators and users. Administrators can create new polls with multiple questions and options, while users can participate by voting on available polls. Results are displayed in an easy-to-read format.
+The Poll App is a web application designed to create, participate in, and view the results of polls. The application features a simple and intuitive interface for both administrators and users. Administrators can create new polls with multiple questions and options, while users can participate by voting on available elections. Results are displayed in an easy-to-read format.
 
 ## Features
 
@@ -29,4 +29,5 @@ To get started with the Poll App, follow these steps:
    cd poll-app
 
 3. **Open the index.html file in your browser**:
-   You can use any modern web browser to view the application. Simply open the index.html file from the root directory.
+   
+   You can use any modern web browser to view the application index.html file from the root directory.
