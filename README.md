@@ -24,9 +24,9 @@ To get started with the Poll App, follow these steps:
    ```bash
    git clone https://github.com/mradul-bansal/Poll-App.git
 
-2. **Navigate to the Project Directory:
+2. **Navigate to the Project Directory**:
    ```bash
    cd poll-app
 
-3. **Open the index.html file in your browser:
-You can use any modern web browser to view the application. Simply open the index.html file from the root directory.
+3. **Open the index.html file in your browser**:
+   You can use any modern web browser to view the application. Simply open the index.html file from the root directory.
