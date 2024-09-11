@@ -1,6 +1,6 @@
 # Poll App
 
-Direct link: [https://bit.ly/Currency--Converter](https://bit.ly/Poll-App)
+Direct link: [https://bit.ly/Poll-App](https://bit.ly/Poll-App)
 
 ## Overview
 
